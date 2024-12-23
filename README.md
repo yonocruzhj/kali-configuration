@@ -12,7 +12,7 @@ This project demonstrates the configuration and optimization of Kali Linux to fu
 <h2>Settings</h2>
 
 Network Configuration <br/>
-<img src="https://https://imgur.com/WX4mcmF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WX4mcmF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Memory and General Information<br/>
